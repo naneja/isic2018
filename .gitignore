@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+.dropbox
+Icon*
+data/model/*.pth
+data/out/*.*
+data/train/*.jpg
+data/valid/*.jpg
+data/test/*.jpg
+data/*.csv
+data/*.pkl
+
