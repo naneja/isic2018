@@ -63,7 +63,12 @@ Below is the Training Dataset consisting of 10,015 images for different disease 
 | 7   | Vascular lesion | 142 |
 
 
+## Project Members
+[Dr. Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja)
+[Dr. Sandhya Aneja, http://expert.ubd.edu.bn/sandhya.aneja ](http://expert.ubd.edu.bn/sandhya.aneja)
+
 ## Feedback
 Please submit your feedback to [Dr. Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja). 
 
-Please write an email (nanejaATgmail or nanejaATieee.org) if you are interested to collaborate further. 
+Please submit your feedback to (nanejaATgmail or nanejaATieee.org).
+
