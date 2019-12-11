@@ -65,10 +65,9 @@ Below is the Training Dataset consisting of 10,015 images for different disease 
 
 ## Project Members
 [Dr. Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja)
+
 [Dr. Sandhya Aneja, http://expert.ubd.edu.bn/sandhya.aneja ](http://expert.ubd.edu.bn/sandhya.aneja)
 
 ## Feedback
-Please submit your feedback to [Dr. Nagender Aneja, http://ResearchID.co/naneja ](http://ResearchID.co/naneja). 
-
 Please submit your feedback to (nanejaATgmail or nanejaATieee.org).
 
